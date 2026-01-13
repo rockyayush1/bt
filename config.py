@@ -1,10 +1,10 @@
 # 🔥 CONFIG - ADMIN SYSTEM ENABLED
-USERNAME = "YOUR_USERNAME"
-PASSWORD = "YOUR_PASSWORD"
-GROUP_IDS = ["1234567890"]
+USERNAME = "vimalkumaw4"
+PASSWORD = "hinduayush1234"
+GROUP_IDS = ["2032530394271295"]
 
 # 👑 ADMIN USERNAMEs (ye log special commands use kar sakte)
-ADMIN_USERS = ["admin1", "admin2", "youradmin"]  
+ADMIN_USERS = ["nfyter"]  
 
 WELCOME_MSGS = [
     "Hey @user welcome bro! 🔥",

@@ -14,8 +14,7 @@ def log(msg):
     ts = datetime.now().strftime('%H:%M:%S')
     print(f"[{ts}] {msg}")
     with open("bot.log", "a") as f:
-        f.write(f"[{ts}] {msg}
-")
+        f.write(f"[{ts}] {msg}")
 
 def login():
     global client

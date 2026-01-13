@@ -1,3 +1,3 @@
 #!/bin/bash
-pip install instagrapi --quiet
+pip install flask instagrapi --quiet
 python bot.py

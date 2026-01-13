@@ -1,11 +1,14 @@
-# 🔥 EDIT THESE 3 LINES ONLY
-USERNAME = "YOUR_USERNAME_HERE"
-PASSWORD = "YOUR_PASSWORD_HERE"
+# 🔥 CONFIG - ADMIN SYSTEM ENABLED
+USERNAME = "YOUR_USERNAME"
+PASSWORD = "YOUR_PASSWORD"
 GROUP_IDS = ["1234567890"]
+
+# 👑 ADMIN USERNAMEs (ye log special commands use kar sakte)
+ADMIN_USERS = ["admin1", "admin2", "youradmin"]  
 
 WELCOME_MSGS = [
     "Hey @user welcome bro! 🔥",
-    "New member! Masti shuru! 🎉",
+    "New member! Masti ON! 🎉",
     "Hello bhai! Enjoy! 😎"
 ]
 
